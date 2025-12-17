@@ -24,7 +24,7 @@ A curious learner who enjoys building, experimenting, and improving one step at 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="www.linkedin.com/in/tanya0610" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Tanyaa0610" target="_blank">
@@ -34,10 +34,17 @@ A curious learner who enjoys building, experimenting, and improving one step at 
 
 ---
 
-## 🧰 Languages & Tools
-
+## 🧑‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp&perline=7" />
+</p>
+
+
+
+
+## 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=5" />
 </p>
 
 ---

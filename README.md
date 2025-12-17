@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tanya</h1>
 
-<!--
-**Tanyaa0610/Tanyaa0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+✨ Learning by building. Growing by experimenting. ✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+A curious learner who enjoys building, experimenting, and improving one step at a time.
+
+🛠️ Learning by building real projects from scratch
+
+🌱 Exploring programming fundamentals & development tools
+
+🧠 Interested in solving real-world problems through technology
+
+✨ Focused on consistency, growth, and clean code
+
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tanyaa0610" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 📌 What I’m Working On
+
+- Strengthening my programming fundamentals  
+- Building small projects to learn by doing  
+- Understanding how real applications are designed  
+
+---
+
+
+
+
+
+---
+
+✨ Progress over perfection. One step at a time.
